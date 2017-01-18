@@ -1,0 +1,22 @@
+
+/*
+ Theme Name:   Underscores.me Child
+ Description:  A child theme of the Twenty Seventeen default WordPress theme
+ Author:       Carlos MOrales
+ Template:     Underscores.me Child
+ Version:      1.0.0
+*/
+
+.navigation-top {
+background: #84bd00;
+
+}
+
+.site-header {
+    background: #84bd00;
+}
+
+.entry-header {
+    background: #84bd00;
+
+}
